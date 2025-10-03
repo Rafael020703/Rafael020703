@@ -4,14 +4,14 @@
 	<p>
 		<b>Desenvolvedor apaixonado por tecnologia, inovação e desafios!</b>
 	</p>
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Fullstack;Apaixonado+por+Open+Source"/>
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+BETA;Apaixonado+por+Open+Source"/>
 </div>
 
 ---
 
 ## 🚀 Sobre mim
 
-- 👨‍💻 Desenvolvedor Fullstack
+- 👨‍💻 Desenvolvedor BETA
 - 🎓 Estudante de tecnologia
 - 🌱 Sempre aprendendo algo novo
 - 💡 Amante de projetos open source
