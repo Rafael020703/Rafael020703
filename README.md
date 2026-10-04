@@ -2,7 +2,7 @@
 
 # 👋 Olá, sou Rafael!
 
-**Desenvolvedor | Aprendiz Contínuo | Criador de Soluções**
+**AI-Powered Developer | Gerenciador de Projetos | Construtor de Ideias**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Rafael020703-181717?style=flat&logo=github)](https://github.com/Rafael020703)
 
@@ -12,13 +12,24 @@
 
 ## 💫 Sobre Mim
 
-Sou um desenvolvedor apaixonado por **código limpo**, **inovação** e **problemas interessantes**. Meu foco é transformar ideias em soluções práticas, explorando desde desenvolvimento **mobile** até **automações web**.
+Sou um profissional focado em **transformar ideias em soluções reais** usando tecnologia moderna. Trabalho com **Inteligência Artificial** como ferramenta principal para gerar, estruturar e otimizar código, permitindo que eu me concentre no que realmente importa: **design, arquitetura e gerenciamento de projetos**.
 
-> *"Escrevo código que faz sentido. Aprendo algo novo todos os dias. Construo projetos com propósito."*
+Minha abordagem é colaborativa com IA — uso ferramentas como **Claude, ChatGPT e GitHub Copilot** para acelerar o desenvolvimento, mantendo total controle sobre qualidade, funcionalidade e direção dos projetos.
+
+> *"Não se trata de quem escreve o código, mas de quem tem as melhores ideias e sabe como implementá-las."*
 
 ---
 
-## 🔧 Tech Stack
+## 🤖 Meu Workflow
+
+- 🧠 **Conceito & Planejamento** — Defino a arquitetura e funcionalidades
+- 🤖 **IA-Assisted Development** — Uso IA para gerar código base
+- 🔧 **Refinamento & Otimização** — Adapto, testo e melhor o resultado
+- 🚀 **Deploy & Manutenção** — Gerencio e evoluo os projetos
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -32,6 +43,11 @@ Sou um desenvolvedor apaixonado por **código limpo**, **inovação** e **proble
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### 🤖 AI & Desenvolvimento
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-81C995?style=for-the-badge)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+
 ### 🛠️ Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -41,24 +57,25 @@ Sou um desenvolvedor apaixonado por **código limpo**, **inovação** e **proble
 
 ---
 
-## 🚀 Meus Repositórios em Destaque
+## 🚀 Meus Projetos
 
 | Projeto | Descrição | Tech | Status |
 |---------|-----------|------|--------|
-| [SquiTV](https://github.com/Rafael020703/SquiTV) | App mobile moderno em Kotlin | Kotlin | ✅ Ativo |
-| [MultiBOT](https://github.com/Rafael020703/MultiBOT) | Sistema de múltiplos bots | JavaScript | 🔄 Mantido |
-| [SODORAFA](https://github.com/Rafael020703/SODORAFA) | Projeto educacional de SO | HTML | 📚 Educativo |
+| [SquiTV](https://github.com/Rafael020703/SquiTV) | App mobile com UI moderna | Kotlin | ✅ Ativo |
+| [MultiBOT](https://github.com/Rafael020703/MultiBOT) | Sistema de automações com bots | JavaScript | 🔄 Mantido |
 | [PixelShrink](https://github.com/Rafael020703/PixelShrink) | Otimizador de imagens | Múltiplas | 🔨 Em Dev |
-| [srdorafa](https://github.com/Rafael020703/srdorafa) | Projeto / experimento | JavaScript | 🧪 Legacy |
+| [SODORAFA](https://github.com/Rafael020703/SODORAFA) | Projeto educacional (SO) | HTML | 📚 Educativo |
+| [srdorafa](https://github.com/Rafael020703/srdorafa) | Experimento anterior | JavaScript | 🧪 Legacy |
 
 ---
 
 ## 🎯 O que Estou Fazendo Agora
 
-- 🔨 Desenvolvendo **SquiTV** - aplicação mobile com Kotlin
-- 💻 Explorando **desenvolvimento web** e **automações**
-- 📚 Aprendendo **arquitetura de software** e **boas práticas**
-- 🚀 Buscando criar soluções que **realmente funcionam**
+- 🤖 Otimizando meu workflow com **IA generativa**
+- 📱 Desenvolvendo **SquiTV** com foco em experiência do usuário
+- 💻 Explorando **automações inteligentes** com bots
+- 🔍 Pesquisando **arquitetura de software** e **best practices**
+- 🚀 Escalando projetos de forma **eficiente e sustentável**
 
 ---
 
@@ -74,13 +91,19 @@ Sou um desenvolvedor apaixonado por **código limpo**, **inovação** e **proble
 
 ---
 
+## 💡 Filosofia
+
+A forma como desenvolvemos está mudando. IA não é uma ameaça — é uma oportunidade para fazer **mais**, **melhor** e **mais rápido**. Meu objetivo é combinar criatividade humana com poder de processamento da IA para criar soluções excepcionais.
+
+---
+
 ## 💬 Vamos Conversar?
 
-Estou sempre aberto para:
-- 💡 Discutir ideias e projetos interessantes
-- 🤝 Colaborações e parcerias
-- 📖 Aprender com outros desenvolvedores
-- 🚀 Explorar oportunidades desafiadoras
+Estou aberto para:
+- 💡 Discutir ideias e projetos inovadores
+- 🤝 Colaborações com foco em IA e automação
+- 📖 Trocar conhecimento sobre desenvolvimento moderno
+- 🚀 Explorar novas oportunidades e desafios
 
 <div align="center">
 
@@ -98,6 +121,6 @@ Estou sempre aberto para:
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Dev coding"/>
 
-**_Code is poetry. Let's build something amazing together!_ 💻✨**
+**_AI-Powered Ideas Into Reality 🤖✨_**
 
 </div>
