@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, sou Rafael
+# 👋 Olá, eu sou Rafael
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Developer-Enabled-00C7B7?style=flat-square&logo=github&logoColor=white" alt="AI Developer" />
@@ -14,9 +14,11 @@
 
 ## Sobre mim
 
-Sou um desenvolvedor focado em transformar ideias em soluções reais com tecnologia moderna. Trabalho principalmente com IA, automações, mobile e projetos com foco em experiência e produtividade.
+Sou um desenvolvedor focado em transformar ideias em soluções reais com tecnologia moderna. Trabalho com IA, automações, mobile e projetos que unem funcionalidade, experiência de uso e impacto prático.
 
-Minha abordagem combina criatividade, arquitetura e execução prática para entregar produtos úteis, escaláveis e bem pensados.
+Minha abordagem combina criatividade, arquitetura e execução eficiente para criar produtos úteis, escaláveis e bem pensados.
+
+---
 
 ## Stack
 
@@ -38,19 +40,25 @@ Minha abordagem combina criatividade, arquitetura e execução prática para ent
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
+
 ## Projetos em destaque
 
-- [SquiTV](https://github.com/Rafael020703/SquiTV) — app mobile com foco em experiência e interface.
+- [SquiTV](https://github.com/Rafael020703/SquiTV) — app mobile com foco em experiência, interface e usabilidade.
 - [MultiBOT](https://github.com/Rafael020703/MultiBOT) — automações e bots com JavaScript.
 - [PixelShrink](https://github.com/Rafael020703/PixelShrink) — otimizador de imagens.
-- [SODORAFA](https://github.com/Rafael020703/SODORAFA) — projeto educacional e experimental.
+- [SODORAFA](https://github.com/Rafael020703/SODORAFA) — projeto experimental e educacional.
 
-## O que estou fazendo
+---
 
-- 💡 Melhorando meu fluxo com IA para desenvolvimento mais rápido e melhor.
-- 📱 Evoluindo projetos mobile com foco em usabilidade.
-- 🤖 Explorando automações inteligentes e ferramentas produtivas.
-- 🚀 Experimentando arquitetura, organização e qualidade de código.
+## O que estou focando
+
+- 💡 Melhorando meu fluxo com IA para desenvolvimento mais rápido e eficiente.
+- 📱 Evoluindo projetos mobile com foco em experiência e qualidade.
+- 🤖 Explorando automações inteligentes e soluções produtivas.
+- 🚀 Experimentando arquitetura, organização e boas práticas de código.
+
+---
 
 ## Estatísticas
 
@@ -61,6 +69,8 @@ Minha abordagem combina criatividade, arquitetura e execução prática para ent
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael020703&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Rafael020703)
 
 </div>
+
+---
 
 ## Contato
 
